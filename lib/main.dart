@@ -35,6 +35,7 @@ class _RandomWordsState extends State<RandomWords> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Startup Name Generator'),
+        backgroundColor: Colors.red,
         actions: [
           IconButton(onPressed: _pushSaved, icon: Icon(Icons.list)),
         ],
@@ -100,6 +101,7 @@ class _RandomWordsState extends State<RandomWords> {
       ).toList();
       return Scaffold(
         appBar: AppBar(
+          backgroundColor: Colors.red,
           title: Text("Saved Sugguestions"),
         ),
         body: ListView(
