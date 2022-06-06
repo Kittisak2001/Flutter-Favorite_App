@@ -17,7 +17,5 @@
 ![page4](https://user-images.githubusercontent.com/100192085/172097505-f6e15fc2-dc9c-46ea-9689-f5020e72ad52.jpg)
 
 Credit Phatiphan
-
-
-  https://www.youtube.com/watch?v=b91iPPwL_oA&ab_channel=PatiphanPhengpao [EP 1] 
-  https://www.youtube.com/watch?v=tnhq1fb_tmU&ab_channel=PatiphanPhengpao [EP 2]
+  [EP 1] : https://www.youtube.com/watch?v=b91iPPwL_oA&ab_channel=PatiphanPhengpao
+  [EP 2] : https://www.youtube.com/watch?v=tnhq1fb_tmU&ab_channel=PatiphanPhengpao
