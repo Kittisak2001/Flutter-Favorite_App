@@ -1,16 +1,6 @@
-# flutter_phatiphan
+# Favorite Application (Flutter)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Credit Phatiphan 
+-https://www.youtube.com/watch?v=b91iPPwL_oA&ab_channel=PatiphanPhengpao [EP 1] 
+-https://www.youtube.com/watch?v=tnhq1fb_tmU&ab_channel=PatiphanPhengpao [EP 2]
