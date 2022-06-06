@@ -1,4 +1,4 @@
-# flutter_phatiphan
+# Favorite Application ( Flutter )
 
 A new Flutter project.
 
